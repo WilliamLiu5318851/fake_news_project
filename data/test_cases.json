@@ -1,0 +1,17 @@
+{
+    "case_1_baseline": {
+        "topic": "Terrorism",
+        "original": "Trump was attacked at a campaign rally in Butler, and eyewitnesses say his ear was injured.",
+        "evolved": "Trump was attacked at a campaign rally in Butler, and eyewitnesses say his ear was injured."
+    },
+    "case_2_moderate_deviation": {
+        "topic": "Finance",
+        "original": "The Bernie Madoff Ponzi scheme, which collapsed in 2008, defrauded investors of billions of dollars.",
+        "evolved": "The Bernie Madoff Ponzi scheme is often overstated; many investors came out on top, with losses greatly exaggerated by the media."
+    },
+    "case_3_extreme_deviation": {
+        "topic": "Science",
+        "original": "Scientists develop drought-resistant wheat, reducing water usage in agriculture.",
+        "evolved": "Miracle wheat can grow in any environment! Scientists claim it will solve world hunger by next year, but some say it poses a severe risk to human health."
+    }
+}
